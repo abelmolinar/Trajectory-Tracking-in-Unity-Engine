@@ -3,7 +3,7 @@ A project connecting Unity and Python for autonomous system simulations. Unity w
 
 ## How this project works: The Unity to Python to Unity Circuit
 
-![My Image](ControlDiagram.png)
+![My Image](ControlDiagram.jpg)
 
 Blue = Unity ;
 Red = Python
